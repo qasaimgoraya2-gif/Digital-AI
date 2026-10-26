@@ -1,0 +1,6 @@
+{
+  "name": "Q AI - Live Voice & Chat Assistant",
+  "description": "Q AI Personal AI Assistant with real-time live voice conversations, speech-to-text chat input, expressive animated robot, and multilingual support.",
+  "requestFramePermissions": ["microphone", "camera", "display-capture"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
